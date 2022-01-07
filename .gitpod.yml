@@ -5,3 +5,7 @@ ports:
     onOpen: ignore
   - port: 6080
     onOpen: open-browser
+tasks:
+  - command: |
+      npx playwright install-deps
+      npx playwright install

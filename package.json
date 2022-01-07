@@ -1,0 +1,22 @@
+{
+  "name": "playwright-test-gp",
+  "version": "1.0.0",
+  "description": "This is a [x11vnc](https://en.wikipedia.org/wiki/X11vnc) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superboss224/playwright-test-gp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superboss224/playwright-test-gp/issues"
+  },
+  "homepage": "https://github.com/superboss224/playwright-test-gp#readme",
+  "dependencies": {
+    "playwright": "^1.17.1"
+  }
+}
